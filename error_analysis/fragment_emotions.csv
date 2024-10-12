@@ -1,0 +1,443 @@
+Episode name,Fragment Number,Emotion_1,Emotion_2,Emotion_3,Emotion_4,Emotion_5,Emotion_6,Emotion_7,Emotion_8
+1,2,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+1,16,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,18,disgust,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,20,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,22,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,36,fear,happiness,happiness,surprise,sadness,no emotion,no emotion,no emotion
+1,38,happiness,anger,happiness,happiness,happiness,surprise,no emotion,no emotion
+1,40,happiness,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+1,41,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,42,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,44,happiness,happiness,happiness,happiness,no emotion,no emotion,no emotion,no emotion
+1,45,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,47,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,48,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+1,50,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,51,disgust,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,52,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,53,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,54,fear,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+1,55,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,3,happiness,sadness,disgust,happiness,fear,no emotion,no emotion,no emotion
+2,4,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,5,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,7,no emotion,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,8,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,10,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,11,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+2,12,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,13,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,14,no emotion,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,16,sadness,no emotion,sadness,surprise,sadness,no emotion,no emotion,no emotion
+2,17,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,18,happiness,disgust,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,20,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,21,anger,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,22,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,23,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,24,happiness,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,25,sadness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,28,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,29,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,30,sadness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,31,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,32,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,33,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,34,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,35,sadness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,36,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+2,40,surprise,happiness,surprise,surprise,sadness,no emotion,no emotion,no emotion
+2,41,sadness,surprise,anger,anger,happiness,no emotion,no emotion,no emotion
+3,2,no emotion,anger,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+3,3,anger,anger,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+3,4,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,5,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,7,no emotion,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+3,10,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,11,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+3,12,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,13,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,14,happiness,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+3,15,sadness,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,16,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,17,anger,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+3,18,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,19,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,20,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,23,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,24,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,25,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,26,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,27,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,29,disgust,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+3,30,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,31,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,32,fear,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,37,anger,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+3,38,no emotion,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,2,no emotion,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,3,no emotion,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,7,no emotion,no emotion,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+4,9,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,10,happiness,no emotion,happiness,happiness,surprise,sadness,fear,no emotion
+4,11,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,12,happiness,no emotion,sadness,no emotion,sadness,happiness,surprise,sadness
+4,15,no emotion,no emotion,happiness,happiness,no emotion,no emotion,no emotion,no emotion
+4,16,surprise,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+4,17,anger,happiness,surprise,happiness,no emotion,no emotion,no emotion,no emotion
+4,19,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,20,no emotion,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+4,21,surprise,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,22,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,23,no emotion,sadness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+4,24,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,26,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,27,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+4,29,sadness,no emotion,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+4,31,surprise,happiness,happiness,surprise,sadness,no emotion,no emotion,no emotion
+4,32,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,2,no emotion,anger,no emotion,surprise,no emotion,no emotion,no emotion,no emotion
+5,3,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,7,surprise,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+5,8,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,9,no emotion,happiness,sadness,sadness,no emotion,no emotion,no emotion,no emotion
+5,10,happiness,surprise,fear,no emotion,sadness,sadness,no emotion,no emotion
+5,11,surprise,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,12,happiness,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+5,13,happiness,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,14,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,15,surprise,disgust,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,16,fear,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,17,happiness,surprise,anger,anger,surprise,no emotion,no emotion,no emotion
+5,18,happiness,no emotion,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+5,20,happiness,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+5,21,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,22,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,23,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,26,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,27,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,29,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,31,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+5,32,anger,sadness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+6,2,sadness,fear,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,3,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,4,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,6,no emotion,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion
+6,8,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,9,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,10,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,11,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,12,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,13,sadness,no emotion,sadness,sadness,no emotion,no emotion,no emotion,no emotion
+6,14,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,15,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,16,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,17,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+6,18,happiness,sadness,happiness,sadness,no emotion,no emotion,no emotion,no emotion
+6,19,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,20,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,21,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,23,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,24,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,25,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,26,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,27,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,29,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+6,32,anger,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,1,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,2,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,3,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,6,no emotion,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+7,7,happiness,fear,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,10,fear,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,11,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,12,happiness,fear,no emotion,happiness,sadness,no emotion,no emotion,no emotion
+7,13,happiness,anger,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+7,14,happiness,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,15,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,16,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,17,happiness,no emotion,no emotion,sadness,happiness,no emotion,no emotion,no emotion
+7,18,happiness,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,19,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,20,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,21,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,22,sadness,no emotion,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+7,23,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+7,24,anger,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,26,happiness,anger,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+7,27,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,28,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,30,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,31,surprise,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion
+7,32,sadness,no emotion,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+7,33,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,34,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,36,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,37,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,38,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+7,39,disgust,anger,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+8,2,no emotion,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,3,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,4,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,7,no emotion,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+8,8,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,9,happiness,happiness,happiness,surprise,sadness,no emotion,no emotion,no emotion
+8,10,disgust,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,11,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,12,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,13,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,14,no emotion,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+8,15,happiness,happiness,no emotion,happiness,surprise,no emotion,no emotion,no emotion
+8,16,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,17,disgust,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,18,no emotion,happiness,anger,no emotion,no emotion,no emotion,no emotion,no emotion
+8,19,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,20,sadness,anger,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+8,21,happiness,sadness,no emotion,happiness,sadness,no emotion,no emotion,no emotion
+8,22,happiness,anger,anger,no emotion,no emotion,no emotion,no emotion,no emotion
+8,23,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+8,24,anger,no emotion,anger,happiness,no emotion,no emotion,no emotion,no emotion
+8,25,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,26,fear,anger,happiness,surprise,sadness,no emotion,no emotion,no emotion
+8,28,happiness,happiness,happiness,happiness,happiness,sadness,no emotion,no emotion
+8,29,happiness,no emotion,happiness,sadness,no emotion,no emotion,no emotion,no emotion
+8,30,no emotion,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,31,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,32,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,34,surprise,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion
+8,35,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,36,surprise,no emotion,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+8,37,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+8,39,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,1,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,2,fear,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,3,surprise,no emotion,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+9,4,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,5,sadness,no emotion,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+9,8,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,9,surprise,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,11,happiness,fear,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,12,happiness,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+9,13,happiness,surprise,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+9,14,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,15,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+9,17,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,18,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,19,happiness,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+9,20,happiness,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+9,21,happiness,fear,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,22,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,23,happiness,anger,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+9,24,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,25,happiness,anger,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+9,26,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,27,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,28,happiness,no emotion,sadness,sadness,no emotion,no emotion,no emotion,no emotion
+9,29,sadness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,30,happiness,surprise,no emotion,happiness,no emotion,no emotion,sadness,no emotion
+9,31,anger,anger,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+9,32,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,33,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,34,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,35,happiness,sadness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+9,36,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+9,37,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,1,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+10,2,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,3,sadness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,4,happiness,surprise,no emotion,happiness,no emotion,no emotion,no emotion,no emotion
+10,6,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,7,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+10,8,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,11,happiness,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion
+10,12,no emotion,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,14,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,15,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+10,16,anger,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,17,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+10,19,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+10,22,happiness,no emotion,surprise,surprise,no emotion,no emotion,no emotion,no emotion
+10,23,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,24,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,25,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,27,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,28,no emotion,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+10,29,happiness,surprise,happiness,happiness,surprise,surprise,no emotion,no emotion
+10,30,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,1,no emotion,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,2,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,4,anger,no emotion,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+11,5,happiness,surprise,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+11,7,no emotion,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,8,fear,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,10,happiness,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+11,11,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,12,happiness,happiness,happiness,happiness,surprise,sadness,no emotion,no emotion
+11,13,happiness,no emotion,happiness,sadness,no emotion,no emotion,no emotion,no emotion
+11,14,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,15,happiness,no emotion,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+11,16,happiness,no emotion,surprise,surprise,fear,no emotion,no emotion,no emotion
+11,18,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,19,surprise,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,21,anger,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+11,22,happiness,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+11,23,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,24,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,25,happiness,happiness,surprise,happiness,no emotion,no emotion,no emotion,no emotion
+11,26,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+11,27,surprise,anger,no emotion,sadness,no emotion,no emotion,no emotion,no emotion
+11,30,happiness,anger,no emotion,anger,no emotion,no emotion,no emotion,no emotion
+11,31,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+11,32,happiness,anger,sadness,happiness,surprise,no emotion,no emotion,no emotion
+12,1,anger,anger,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,2,anger,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+12,5,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,7,anger,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+12,8,happiness,no emotion,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+12,9,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,10,happiness,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+12,11,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+12,13,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+12,14,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,15,happiness,happiness,happiness,surprise,surprise,sadness,no emotion,no emotion
+12,16,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,17,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,18,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,19,happiness,no emotion,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+12,20,sadness,no emotion,sadness,surprise,no emotion,no emotion,no emotion,no emotion
+12,21,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,22,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,23,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,24,happiness,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+12,25,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,26,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,27,no emotion,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion
+12,28,surprise,anger,anger,surprise,surprise,no emotion,no emotion,no emotion
+12,29,happiness,no emotion,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+12,32,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+12,33,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,1,sadness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,2,happiness,anger,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+13,4,happiness,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion
+13,5,fear,anger,anger,surprise,no emotion,no emotion,no emotion,no emotion
+13,6,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+13,7,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+13,8,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,9,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+13,10,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,11,happiness,anger,happiness,surprise,surprise,no emotion,no emotion,no emotion
+13,12,happiness,surprise,anger,no emotion,happiness,surprise,sadness,no emotion
+13,13,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,14,happiness,happiness,no emotion,happiness,happiness,sadness,happiness,surprise
+13,15,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,16,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,17,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,18,happiness,no emotion,happiness,happiness,surprise,no emotion,no emotion,no emotion
+13,19,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,20,anger,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,21,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+13,22,surprise,happiness,anger,no emotion,surprise,surprise,no emotion,no emotion
+13,23,happiness,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+13,25,happiness,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+13,26,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+13,27,happiness,surprise,no emotion,happiness,no emotion,no emotion,no emotion,no emotion
+13,28,sadness,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+14,1,surprise,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+14,2,happiness,surprise,happiness,sadness,no emotion,no emotion,no emotion,no emotion
+14,3,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,5,no emotion,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+14,6,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,7,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,8,happiness,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+14,9,happiness,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+14,10,happiness,surprise,happiness,surprise,surprise,no emotion,no emotion,no emotion
+14,11,anger,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+14,12,sadness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,13,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,14,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,15,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,16,sadness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,17,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,18,anger,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+14,19,sadness,anger,no emotion,surprise,sadness,no emotion,no emotion,no emotion
+14,20,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+14,22,happiness,happiness,happiness,surprise,surprise,no emotion,no emotion,no emotion
+14,23,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,24,happiness,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+14,26,happiness,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+14,27,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,28,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,29,happiness,anger,happiness,surprise,surprise,no emotion,no emotion,no emotion
+14,30,sadness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+14,34,happiness,surprise,happiness,sadness,no emotion,no emotion,no emotion,no emotion
+14,35,happiness,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+15,1,happiness,sadness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+15,2,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,4,no emotion,anger,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+15,5,happiness,anger,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+15,6,happiness,no emotion,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+15,7,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,8,surprise,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+15,9,happiness,anger,no emotion,happiness,surprise,sadness,no emotion,no emotion
+15,10,happiness,sadness,no emotion,surprise,sadness,no emotion,no emotion,no emotion
+15,11,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,12,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,13,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,14,happiness,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+15,15,no emotion,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+15,16,happiness,no emotion,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+15,17,happiness,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+15,18,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,19,happiness,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion
+15,20,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,21,happiness,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion
+15,22,surprise,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,23,happiness,surprise,no emotion,surprise,surprise,fear,no emotion,no emotion
+15,24,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,25,happiness,happiness,happiness,sadness,no emotion,no emotion,no emotion,no emotion
+15,26,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+15,27,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,28,no emotion,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,29,happiness,no emotion,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+15,31,happiness,no emotion,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+15,32,no emotion,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,33,surprise,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+15,34,surprise,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,1,happiness,surprise,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+16,2,surprise,happiness,happiness,happiness,no emotion,no emotion,no emotion,no emotion
+16,4,anger,no emotion,surprise,surprise,no emotion,no emotion,no emotion,no emotion
+16,6,happiness,happiness,surprise,surprise,no emotion,no emotion,no emotion,no emotion
+16,7,happiness,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+16,8,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,9,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,10,happiness,surprise,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+16,11,surprise,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion
+16,12,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,13,happiness,fear,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+16,14,happiness,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion
+16,16,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,17,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,18,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,19,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,20,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,21,happiness,sadness,no emotion,sadness,no emotion,no emotion,no emotion,no emotion
+16,23,happiness,surprise,happiness,happiness,surprise,no emotion,no emotion,no emotion
+16,25,happiness,surprise,fear,no emotion,no emotion,no emotion,no emotion,no emotion
+16,26,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,27,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+16,28,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion
+16,31,happiness,happiness,no emotion,no emotion,surprise,surprise,no emotion,no emotion
+17,4,happiness,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+17,5,happiness,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+17,8,fear,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+17,9,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+17,10,happiness,surprise,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+17,11,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+17,12,happiness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+17,13,happiness,anger,surprise,surprise,sadness,no emotion,no emotion,no emotion
+17,14,surprise,sadness,no emotion,no emotion,no emotion,no emotion,no emotion,no emotion
+17,15,no emotion,happiness,happiness,surprise,no emotion,no emotion,no emotion,no emotion
+17,16,anger,happiness,surprise,sadness,no emotion,no emotion,no emotion,no emotion
+17,17,happiness,happiness,sadness,no emotion,no emotion,no emotion,no emotion,no emotion
+17,18,happiness,no emotion,happiness,happiness,happiness,surprise,no emotion,no emotion

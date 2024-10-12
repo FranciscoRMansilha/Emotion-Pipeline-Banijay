@@ -1,0 +1,443 @@
+Episode,Fragment,Predicted Emotion,Actual Emotions,Correct
+1,2,fear,"['happiness', 'surprise']",False
+1,16,fear,['happiness'],False
+1,18,happiness,['disgust'],False
+1,20,fear,"['sadness', 'happiness']",False
+1,22,happiness,['happiness'],True
+1,36,fear,"['sadness', 'fear', 'happiness', 'surprise']",True
+1,38,happiness,"['anger', 'happiness', 'surprise']",True
+1,40,happiness,['happiness'],True
+1,41,happiness,"['sadness', 'happiness']",True
+1,42,happiness,['happiness'],True
+1,44,fear,['happiness'],False
+1,45,happiness,"['fear', 'surprise']",False
+1,47,happiness,"['happiness', 'surprise']",True
+1,48,anger,"['happiness', 'surprise']",False
+1,50,fear,['happiness'],False
+1,51,fear,"['disgust', 'happiness']",False
+1,52,happiness,['happiness'],True
+1,53,happiness,['happiness'],True
+1,54,fear,['fear'],True
+1,55,fear,['sadness'],False
+2,3,happiness,"['sadness', 'fear', 'disgust', 'happiness']",True
+2,4,happiness,['happiness'],True
+2,5,fear,['surprise'],False
+2,7,fear,['surprise'],False
+2,8,happiness,"['happiness', 'surprise']",True
+2,10,anger,['happiness'],False
+2,11,anger,"['happiness', 'surprise']",False
+2,12,happiness,"['sadness', 'happiness']",True
+2,13,sadness,['happiness'],False
+2,14,happiness,['sadness'],False
+2,16,fear,"['sadness', 'surprise']",False
+2,17,happiness,['happiness'],True
+2,18,surprise,"['disgust', 'happiness']",False
+2,20,happiness,['happiness'],True
+2,21,fear,"['sadness', 'anger']",False
+2,22,fear,['happiness'],False
+2,23,fear,['sadness'],False
+2,24,sadness,"['happiness', 'anger']",False
+2,25,fear,"['sadness', 'surprise']",False
+2,28,fear,['happiness'],False
+2,29,anger,"['happiness', 'surprise']",False
+2,30,fear,"['sadness', 'surprise']",False
+2,31,fear,['happiness'],False
+2,32,happiness,['happiness'],True
+2,33,fear,['surprise'],False
+2,34,fear,['surprise'],False
+2,35,fear,"['sadness', 'surprise']",False
+2,36,surprise,['surprise'],True
+2,40,happiness,"['sadness', 'happiness', 'surprise']",True
+2,41,anger,"['surprise', 'sadness', 'happiness', 'anger']",True
+3,2,happiness,"['anger', 'surprise']",False
+3,3,fear,"['anger', 'surprise']",False
+3,4,happiness,['happiness'],True
+3,5,happiness,['surprise'],False
+3,7,fear,"['happiness', 'surprise']",False
+3,10,happiness,['happiness'],True
+3,11,anger,"['sadness', 'happiness', 'surprise']",False
+3,12,happiness,['happiness'],True
+3,13,happiness,['happiness'],True
+3,14,happiness,"['sadness', 'happiness', 'surprise']",True
+3,15,happiness,"['sadness', 'anger']",False
+3,16,happiness,['happiness'],True
+3,17,fear,"['sadness', 'happiness', 'anger']",False
+3,18,happiness,['happiness'],True
+3,19,fear,['sadness'],False
+3,20,happiness,"['happiness', 'surprise']",True
+3,23,happiness,[],False
+3,24,fear,"['sadness', 'happiness']",False
+3,25,happiness,['happiness'],True
+3,26,happiness,['happiness'],True
+3,27,happiness,['sadness'],False
+3,29,fear,"['sadness', 'disgust', 'happiness']",False
+3,30,fear,['surprise'],False
+3,31,fear,['surprise'],False
+3,32,fear,"['fear', 'anger']",True
+3,37,happiness,"['sadness', 'anger']",False
+3,38,fear,['anger'],False
+4,2,fear,['sadness'],False
+4,3,fear,['sadness'],False
+4,7,fear,"['happiness', 'surprise']",False
+4,9,fear,"['happiness', 'surprise']",False
+4,10,fear,"['sadness', 'fear', 'happiness', 'surprise']",True
+4,11,happiness,['happiness'],True
+4,12,fear,"['sadness', 'happiness', 'surprise']",False
+4,15,happiness,['happiness'],True
+4,16,happiness,"['sadness', 'happiness', 'surprise']",True
+4,17,fear,"['anger', 'happiness', 'surprise']",False
+4,19,happiness,['happiness'],True
+4,20,happiness,"['sadness', 'happiness']",True
+4,21,fear,"['happiness', 'surprise']",False
+4,22,happiness,['happiness'],True
+4,23,fear,"['sadness', 'surprise']",False
+4,24,happiness,['happiness'],True
+4,26,happiness,['surprise'],False
+4,27,fear,"['sadness', 'happiness']",False
+4,29,fear,"['sadness', 'surprise']",False
+4,31,happiness,"['sadness', 'happiness', 'surprise']",True
+4,32,anger,['surprise'],False
+5,2,fear,"['anger', 'surprise']",False
+5,3,happiness,['happiness'],True
+5,7,anger,"['sadness', 'happiness', 'surprise']",False
+5,8,anger,['happiness'],False
+5,9,anger,"['sadness', 'happiness']",False
+5,10,happiness,"['sadness', 'fear', 'happiness', 'surprise']",True
+5,11,fear,"['happiness', 'surprise']",False
+5,12,fear,"['sadness', 'happiness']",False
+5,13,fear,"['happiness', 'anger']",False
+5,14,fear,['surprise'],False
+5,15,happiness,"['disgust', 'surprise']",False
+5,16,happiness,"['fear', 'surprise']",False
+5,17,anger,"['surprise', 'happiness', 'anger']",True
+5,18,fear,"['sadness', 'happiness']",False
+5,20,fear,"['happiness', 'surprise']",False
+5,21,happiness,['happiness'],True
+5,22,fear,['sadness'],False
+5,23,happiness,['happiness'],True
+5,26,fear,['surprise'],False
+5,27,happiness,['happiness'],True
+5,29,fear,[],False
+5,31,happiness,['happiness'],True
+5,32,fear,"['sadness', 'anger', 'surprise']",False
+6,2,fear,"['sadness', 'fear']",True
+6,3,anger,['sadness'],False
+6,4,fear,['happiness'],False
+6,6,fear,"['fear', 'surprise']",True
+6,8,fear,['sadness'],False
+6,9,fear,"['sadness', 'surprise']",False
+6,10,happiness,"['happiness', 'surprise']",True
+6,11,fear,[],False
+6,12,happiness,['happiness'],True
+6,13,fear,['sadness'],False
+6,14,happiness,['happiness'],True
+6,15,fear,[],False
+6,16,fear,['happiness'],False
+6,17,happiness,"['happiness', 'surprise']",True
+6,18,happiness,"['sadness', 'happiness']",True
+6,19,happiness,['happiness'],True
+6,20,anger,['surprise'],False
+6,21,fear,['happiness'],False
+6,23,happiness,['happiness'],True
+6,24,fear,['anger'],False
+6,25,fear,['happiness'],False
+6,26,fear,['surprise'],False
+6,27,fear,"['happiness', 'surprise']",False
+6,29,fear,[],False
+6,32,fear,['anger'],False
+7,1,happiness,['sadness'],False
+7,2,fear,['surprise'],False
+7,3,happiness,['sadness'],False
+7,6,fear,"['happiness', 'surprise']",False
+7,7,fear,"['fear', 'happiness']",True
+7,10,sadness,"['fear', 'surprise']",False
+7,11,fear,['happiness'],False
+7,12,happiness,"['sadness', 'fear', 'happiness']",True
+7,13,happiness,"['sadness', 'happiness', 'anger']",True
+7,14,fear,"['happiness', 'anger']",False
+7,15,happiness,['happiness'],True
+7,16,happiness,['happiness'],True
+7,17,happiness,"['sadness', 'happiness']",True
+7,18,anger,"['happiness', 'anger']",True
+7,19,fear,['surprise'],False
+7,20,fear,['happiness'],False
+7,21,fear,['anger'],False
+7,22,anger,"['sadness', 'surprise']",False
+7,23,happiness,"['sadness', 'happiness', 'surprise']",True
+7,24,anger,"['sadness', 'anger']",True
+7,26,happiness,"['sadness', 'anger', 'happiness', 'surprise']",True
+7,27,happiness,['happiness'],True
+7,28,anger,"['sadness', 'surprise']",False
+7,30,surprise,['happiness'],False
+7,31,fear,"['fear', 'surprise']",True
+7,32,fear,['sadness'],False
+7,33,happiness,['surprise'],False
+7,34,anger,['sadness'],False
+7,36,fear,['sadness'],False
+7,37,fear,['sadness'],False
+7,38,happiness,['happiness'],True
+7,39,anger,"['sadness', 'disgust', 'anger']",True
+8,2,happiness,['happiness'],True
+8,3,happiness,['happiness'],True
+8,4,happiness,['happiness'],True
+8,7,fear,"['happiness', 'surprise']",False
+8,8,happiness,['happiness'],True
+8,9,fear,"['sadness', 'happiness', 'surprise']",False
+8,10,fear,"['disgust', 'anger']",False
+8,11,fear,['happiness'],False
+8,12,happiness,['happiness'],True
+8,13,fear,['happiness'],False
+8,14,happiness,"['sadness', 'happiness', 'surprise']",True
+8,15,happiness,"['happiness', 'surprise']",True
+8,16,happiness,['happiness'],True
+8,17,happiness,"['disgust', 'happiness']",True
+8,18,anger,"['happiness', 'anger']",True
+8,19,fear,"['happiness', 'surprise']",False
+8,20,happiness,"['sadness', 'anger']",False
+8,21,fear,"['sadness', 'happiness']",False
+8,22,anger,"['happiness', 'anger']",True
+8,23,fear,"['happiness', 'surprise']",False
+8,24,happiness,"['happiness', 'anger']",True
+8,25,anger,['happiness'],False
+8,26,fear,"['sadness', 'fear', 'anger', 'surprise', 'happiness']",True
+8,28,fear,"['sadness', 'happiness']",False
+8,29,fear,"['sadness', 'happiness']",False
+8,30,happiness,['surprise'],False
+8,31,fear,['surprise'],False
+8,32,happiness,['surprise'],False
+8,34,happiness,"['fear', 'surprise']",False
+8,35,anger,['anger'],True
+8,36,fear,['surprise'],False
+8,37,fear,['happiness'],False
+8,39,happiness,['sadness'],False
+9,1,happiness,['happiness'],True
+9,2,happiness,['fear'],False
+9,3,fear,"['sadness', 'surprise']",False
+9,4,happiness,['happiness'],True
+9,5,fear,"['sadness', 'happiness']",False
+9,8,fear,"['happiness', 'surprise']",False
+9,9,fear,"['happiness', 'surprise']",False
+9,11,fear,"['fear', 'happiness']",True
+9,12,fear,"['sadness', 'happiness', 'surprise']",False
+9,13,fear,"['happiness', 'surprise']",False
+9,14,fear,['happiness'],False
+9,15,fear,"['sadness', 'happiness', 'surprise']",False
+9,17,happiness,['happiness'],True
+9,18,fear,['surprise'],False
+9,19,fear,['happiness'],False
+9,20,happiness,['happiness'],True
+9,21,fear,"['fear', 'happiness']",True
+9,22,fear,"['fear', 'surprise']",True
+9,23,fear,"['anger', 'happiness', 'surprise']",False
+9,24,fear,['happiness'],False
+9,25,fear,"['anger', 'happiness', 'surprise']",False
+9,26,happiness,[],False
+9,27,fear,['sadness'],False
+9,28,happiness,"['sadness', 'happiness']",True
+9,29,fear,['sadness'],False
+9,30,happiness,"['sadness', 'happiness', 'surprise']",True
+9,31,happiness,"['sadness', 'anger']",False
+9,32,fear,[],False
+9,33,fear,['anger'],False
+9,34,sadness,['surprise'],False
+9,35,fear,"['sadness', 'happiness', 'surprise']",False
+9,36,anger,['anger'],True
+9,37,happiness,['anger'],False
+10,1,anger,"['sadness', 'happiness', 'surprise']",False
+10,2,sadness,['surprise'],False
+10,3,fear,['sadness'],False
+10,4,fear,"['happiness', 'surprise']",False
+10,6,fear,['anger'],False
+10,7,happiness,"['happiness', 'surprise']",True
+10,8,anger,['happiness'],False
+10,11,fear,"['happiness', 'surprise']",False
+10,12,happiness,['surprise'],False
+10,14,happiness,['happiness'],True
+10,15,happiness,"['happiness', 'surprise']",True
+10,16,fear,"['anger', 'surprise']",False
+10,17,fear,"['happiness', 'surprise']",False
+10,19,happiness,"['happiness', 'surprise']",True
+10,22,fear,"['happiness', 'surprise']",False
+10,23,sadness,['sadness'],True
+10,24,fear,['surprise'],False
+10,25,happiness,['happiness'],True
+10,27,fear,['sadness'],False
+10,28,happiness,['happiness'],True
+10,29,fear,"['happiness', 'surprise']",False
+10,30,anger,['happiness'],False
+11,1,fear,['surprise'],False
+11,2,fear,"['happiness', 'surprise']",False
+11,4,fear,"['sadness', 'anger']",False
+11,5,happiness,"['sadness', 'happiness', 'surprise']",True
+11,7,sadness,['happiness'],False
+11,8,happiness,"['fear', 'happiness']",True
+11,10,anger,"['sadness', 'happiness', 'surprise']",False
+11,11,anger,['sadness'],False
+11,12,anger,"['sadness', 'happiness', 'surprise']",False
+11,13,happiness,"['sadness', 'happiness']",True
+11,14,anger,"['happiness', 'surprise']",False
+11,15,happiness,['happiness'],True
+11,16,happiness,"['fear', 'happiness', 'surprise']",True
+11,18,anger,['happiness'],False
+11,19,fear,"['surprise', 'anger']",False
+11,21,fear,"['anger', 'happiness', 'surprise']",False
+11,22,fear,"['sadness', 'happiness']",False
+11,23,happiness,['surprise'],False
+11,24,happiness,[],False
+11,25,fear,"['happiness', 'surprise']",False
+11,26,fear,['surprise'],False
+11,27,fear,"['surprise', 'sadness', 'anger']",False
+11,30,fear,"['happiness', 'anger']",False
+11,31,anger,"['happiness', 'surprise']",False
+11,32,fear,"['sadness', 'anger', 'happiness', 'surprise']",False
+12,1,happiness,['anger'],False
+12,2,sadness,"['sadness', 'anger', 'surprise']",True
+12,5,fear,"['sadness', 'surprise']",False
+12,7,anger,"['sadness', 'anger', 'surprise']",True
+12,8,fear,"['happiness', 'surprise']",False
+12,9,anger,['surprise'],False
+12,10,fear,"['happiness', 'surprise']",False
+12,11,surprise,"['happiness', 'surprise']",True
+12,13,happiness,"['happiness', 'surprise']",True
+12,14,fear,"['happiness', 'surprise']",False
+12,15,fear,"['sadness', 'happiness', 'surprise']",False
+12,16,fear,['happiness'],False
+12,17,happiness,['happiness'],True
+12,18,happiness,['happiness'],True
+12,19,fear,"['happiness', 'surprise']",False
+12,20,anger,"['sadness', 'surprise']",False
+12,21,fear,['happiness'],False
+12,22,sadness,['sadness'],True
+12,23,fear,"['happiness', 'surprise']",False
+12,24,fear,['happiness'],False
+12,25,fear,"['happiness', 'surprise']",False
+12,26,fear,['sadness'],False
+12,27,fear,"['fear', 'surprise']",True
+12,28,fear,"['surprise', 'anger']",False
+12,29,fear,"['happiness', 'surprise']",False
+12,32,fear,['sadness'],False
+12,33,fear,"['happiness', 'surprise']",False
+13,1,fear,"['sadness', 'surprise']",False
+13,2,happiness,"['anger', 'happiness', 'surprise']",True
+13,4,fear,"['fear', 'happiness', 'surprise']",True
+13,5,fear,"['anger', 'fear', 'surprise']",True
+13,6,happiness,"['happiness', 'surprise']",True
+13,7,anger,"['happiness', 'surprise']",False
+13,8,happiness,['surprise'],False
+13,9,happiness,"['happiness', 'surprise']",True
+13,10,fear,"['happiness', 'surprise']",False
+13,11,fear,"['anger', 'happiness', 'surprise']",False
+13,12,fear,"['surprise', 'sadness', 'happiness', 'anger']",False
+13,13,anger,"['happiness', 'surprise']",False
+13,14,happiness,"['sadness', 'happiness', 'surprise']",True
+13,15,fear,['happiness'],False
+13,16,fear,[],False
+13,17,happiness,"['happiness', 'surprise']",True
+13,18,happiness,"['happiness', 'surprise']",True
+13,19,fear,"['happiness', 'surprise']",False
+13,20,sadness,"['anger', 'surprise']",False
+13,21,fear,"['happiness', 'surprise']",False
+13,22,fear,"['surprise', 'happiness', 'anger']",False
+13,23,happiness,"['happiness', 'surprise']",True
+13,25,fear,"['happiness', 'surprise']",False
+13,26,happiness,['happiness'],True
+13,27,happiness,"['happiness', 'surprise']",True
+13,28,happiness,"['sadness', 'happiness']",True
+14,1,fear,"['happiness', 'surprise']",False
+14,2,happiness,"['sadness', 'happiness', 'surprise']",True
+14,3,fear,"['happiness', 'surprise']",False
+14,5,fear,"['happiness', 'surprise']",False
+14,6,fear,['surprise'],False
+14,7,fear,['surprise'],False
+14,8,anger,"['sadness', 'happiness', 'surprise']",False
+14,9,happiness,"['sadness', 'happiness', 'surprise']",True
+14,10,fear,"['happiness', 'surprise']",False
+14,11,fear,"['anger', 'happiness', 'surprise']",False
+14,12,sadness,"['sadness', 'surprise']",True
+14,13,happiness,['surprise'],False
+14,14,happiness,"['happiness', 'surprise']",True
+14,15,anger,['happiness'],False
+14,16,sadness,['sadness'],True
+14,17,happiness,['happiness'],True
+14,18,anger,"['sadness', 'anger', 'surprise']",True
+14,19,fear,"['sadness', 'anger', 'surprise']",False
+14,20,happiness,"['happiness', 'surprise']",True
+14,22,fear,"['happiness', 'surprise']",False
+14,23,happiness,['happiness'],True
+14,24,happiness,"['happiness', 'surprise']",True
+14,26,happiness,"['sadness', 'happiness']",True
+14,27,fear,['happiness'],False
+14,28,happiness,['happiness'],True
+14,29,fear,"['anger', 'happiness', 'surprise']",False
+14,30,anger,"['sadness', 'surprise']",False
+14,34,fear,"['sadness', 'happiness', 'surprise']",False
+14,35,fear,"['sadness', 'happiness', 'surprise']",False
+15,1,fear,"['sadness', 'happiness', 'surprise']",False
+15,2,happiness,"['happiness', 'surprise']",True
+15,4,fear,"['anger', 'happiness', 'surprise']",False
+15,5,fear,"['sadness', 'anger', 'happiness', 'surprise']",False
+15,6,happiness,"['happiness', 'surprise']",True
+15,7,happiness,['happiness'],True
+15,8,sadness,"['sadness', 'surprise']",True
+15,9,fear,"['sadness', 'anger', 'happiness', 'surprise']",False
+15,10,fear,"['sadness', 'happiness', 'surprise']",False
+15,11,happiness,['happiness'],True
+15,12,anger,[],False
+15,13,fear,['surprise'],False
+15,14,anger,"['happiness', 'surprise']",False
+15,15,happiness,"['sadness', 'surprise']",False
+15,16,happiness,['happiness'],True
+15,17,happiness,['happiness'],True
+15,18,fear,['surprise'],False
+15,19,fear,"['fear', 'happiness', 'surprise']",True
+15,20,anger,['happiness'],False
+15,21,fear,"['happiness', 'surprise']",False
+15,22,fear,"['happiness', 'surprise']",False
+15,23,fear,"['fear', 'happiness', 'surprise']",True
+15,24,fear,['surprise'],False
+15,25,happiness,"['sadness', 'happiness']",True
+15,26,happiness,"['happiness', 'surprise']",True
+15,27,happiness,['happiness'],True
+15,28,happiness,['surprise'],False
+15,29,happiness,"['happiness', 'surprise']",True
+15,31,fear,"['sadness', 'happiness']",False
+15,32,happiness,['happiness'],True
+15,33,anger,['surprise'],False
+15,34,happiness,"['happiness', 'surprise']",True
+16,1,anger,"['happiness', 'surprise']",False
+16,2,happiness,"['happiness', 'surprise']",True
+16,4,fear,"['anger', 'surprise']",False
+16,6,happiness,"['happiness', 'surprise']",True
+16,7,happiness,"['happiness', 'surprise']",True
+16,8,anger,"['happiness', 'surprise']",False
+16,9,happiness,['happiness'],True
+16,10,happiness,"['happiness', 'surprise']",True
+16,11,happiness,"['fear', 'surprise']",False
+16,12,anger,"['sadness', 'surprise']",False
+16,13,fear,"['fear', 'happiness', 'surprise']",True
+16,14,happiness,['happiness'],True
+16,16,anger,"['sadness', 'happiness']",False
+16,17,happiness,"['happiness', 'surprise']",True
+16,18,happiness,['happiness'],True
+16,19,anger,['happiness'],False
+16,20,fear,"['happiness', 'surprise']",False
+16,21,fear,"['sadness', 'happiness']",False
+16,23,fear,"['happiness', 'surprise']",False
+16,25,happiness,"['fear', 'happiness', 'surprise']",True
+16,26,fear,"['happiness', 'surprise']",False
+16,27,fear,['happiness'],False
+16,28,happiness,"['happiness', 'surprise']",True
+16,31,fear,"['happiness', 'surprise']",False
+17,4,happiness,['happiness'],True
+17,5,happiness,"['happiness', 'surprise']",True
+17,8,happiness,['fear'],False
+17,9,fear,"['sadness', 'happiness', 'surprise']",False
+17,10,fear,"['happiness', 'surprise']",False
+17,11,fear,"['sadness', 'surprise']",False
+17,12,anger,['happiness'],False
+17,13,fear,"['sadness', 'anger', 'happiness', 'surprise']",False
+17,14,sadness,"['sadness', 'surprise']",True
+17,15,happiness,"['happiness', 'surprise']",True
+17,16,fear,"['sadness', 'anger', 'happiness', 'surprise']",False
+17,17,happiness,"['sadness', 'happiness']",True
+17,18,fear,"['happiness', 'surprise']",False
