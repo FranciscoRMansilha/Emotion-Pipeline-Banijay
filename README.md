@@ -186,10 +186,6 @@ The pipeline handles uploaded audio files as follows:
 
 ---
 
-Here’s the revised "Improving the Project" section based on your clarification:
-
----
-
 ## Limitations and Challenges
 
 Due to the nature of our university project, we fine-tuned our models using a dataset we scraped rather than directly using Banijay’s show's transcriptions or human-labeled data. It was unfortunate, as working with the actual show’s labeled data could have yielded more specific insights and a higher accuracy. However, despite this, our pipeline performed admirably, earning second place in the Kaggle competition organized for this project.
